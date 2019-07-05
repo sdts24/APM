@@ -19,7 +19,7 @@ export class ProductListComponent
         "description": "Curved claw steel hammer",
         "price": 8.9,
         "starRating": 4.8,
-        "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+        "imageUrl": "http://www.hierrosmaldonado.com.ar/1785-thickbox_default/pala-forjada-ancha-gherardi.jpg"
       },
           {
             "productId": 2,
