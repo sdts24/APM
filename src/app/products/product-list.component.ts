@@ -6,9 +6,10 @@ import { Component } from "@angular/core";
 export class ProductListComponent
 { 
     pageTitle: string = 'Product List';  
-    imageWidth: number = 50;
+    imageWidth: number = 70;
     imageMargin: number = 2;
     showImage: boolean = false;
+    listFilter: string = 'cart';
     products: any[]  = 
     [ 
       {
@@ -19,7 +20,7 @@ export class ProductListComponent
         "description": "Curved claw steel hammer",
         "price": 8.9,
         "starRating": 4.8,
-        "imageUrl": "http://www.hierrosmaldonado.com.ar/1785-thickbox_default/pala-forjada-ancha-gherardi.jpg"
+        "imageUrl": "https://cdn10.bigcommerce.com/s-ezhe8/products/7722/images/17249/Trade_Claw_Hammer.jpg_1__99671.1553770049.1280.1280.jpg?c=2"
       },
           {
             "productId": 2,
@@ -29,7 +30,7 @@ export class ProductListComponent
             "description": "15 gallon capacity rolling garden cart",
             "price": 32.99,
             "starRating": 4.2,
-            "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/616fiXob1NL._SL1200_.jpg"
           }
     ];
 
