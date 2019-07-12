@@ -7,7 +7,7 @@
     "description": "Leaf rake with 48-inch wooden handle.",
     "price": 19.95,
     "starRating": 3.2,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    "imageUrl": "https://www.clasohlson.com/medias/sys_master/9597265281054.jpg"
   },
   {
     "productId": 2,
@@ -17,7 +17,7 @@
     "description": "15 gallon capacity rolling garden cart",
     "price": 32.99,
     "starRating": 4.2,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    "imageUrl": "https://mobileimages.lowes.com/product/converted/840594/840594004509.jpg"
   },
   {
     "productId": 5,
@@ -27,17 +27,17 @@
     "description": "Curved claw steel hammer",
     "price": 8.9,
     "starRating": 4.8,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    "imageUrl": "https://cdn2.bigcommerce.com/server5300/93f31/products/1005/images/303/nordic_hammer_cropped_small__30025__38646.1392446391.460.500.jpg?c=2"
   },
   {
     "productId": 8,
-    "productName": "Saw",
+    "productName": "Saw Mask",
     "productCode": "TBX-0022",
     "releaseDate": "May 15, 2016",
     "description": "15-inch steel blade hand saw",
     "price": 11.55,
     "starRating": 3.7,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    "imageUrl": "https://bluebananastatic-ooxqkrt4ejgeg.stackpathdns.com/shopimages/products/normal/125685.jpg"
   },
   {
     "productId": 10,
@@ -47,6 +47,6 @@
     "description": "Standard two-button video game controller",
     "price": 35.95,
     "starRating": 4.6,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81oyj8wrlCL._SX466_.jpg"
   }
 ]
